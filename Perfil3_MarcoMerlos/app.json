@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "API Explorer",
+    "slug": "api-explorer-evaluacion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121218"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#121218"
+      },
+      "package": "com.evaluacion.apiexplorer"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5b38c080-be96-4eae-80c4-d53446ee09fa"
+      }
+    }
+  }
+}
