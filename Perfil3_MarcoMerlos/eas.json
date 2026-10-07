@@ -3,12 +3,12 @@
     "preview": {
       "distribution": "internal",
       "android": {
-        "buildType": "apk"
+        "image": "latest"
       }
     },
     "production": {
       "android": {
-        "buildType": "apk"
+        "image": "latest"
       }
     }
   },
